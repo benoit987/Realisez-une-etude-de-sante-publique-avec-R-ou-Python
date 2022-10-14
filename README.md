@@ -1,4 +1,4 @@
-# Projet 4 du parcours OpenClassrooms : Réalisez-une-étude-de-santé-publique-avec-R-ou-Python 
+# Projet 4 du parcours de formation Data Analyst OpenClassrooms :  Réalisez-une-étude-de-santé-publique-avec-R-ou-Python 
     
 
 
